@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Nacho Andrade/Desktop/Ingeniería en electrónica y computación/7mo_semestre/Sistemas embebidos/controlador PI.cpp">
+			<Option target="Sistemas_embebidos"/>
+		</Unit>
 		<Unit filename="C:/Users/Nacho Andrade/Desktop/Ingeniería en electrónica y computación/7mo_semestre/Sistemas embebidos/main.cpp">
 			<Option target="Sistemas_embebidos"/>
 		</Unit>

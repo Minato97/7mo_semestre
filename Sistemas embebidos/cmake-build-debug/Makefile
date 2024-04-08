@@ -128,6 +128,30 @@ Sistemas_embebidos/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sistemas_embebidos.dir\build.make CMakeFiles/Sistemas_embebidos.dir/build
 .PHONY : Sistemas_embebidos/fast
 
+controlador_PI.obj: controlador_PI.cpp.obj
+.PHONY : controlador_PI.obj
+
+# target to build an object file
+controlador_PI.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sistemas_embebidos.dir\build.make CMakeFiles/Sistemas_embebidos.dir/controlador_PI.cpp.obj
+.PHONY : controlador_PI.cpp.obj
+
+controlador_PI.i: controlador_PI.cpp.i
+.PHONY : controlador_PI.i
+
+# target to preprocess a source file
+controlador_PI.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sistemas_embebidos.dir\build.make CMakeFiles/Sistemas_embebidos.dir/controlador_PI.cpp.i
+.PHONY : controlador_PI.cpp.i
+
+controlador_PI.s: controlador_PI.cpp.s
+.PHONY : controlador_PI.s
+
+# target to generate assembly for a file
+controlador_PI.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Sistemas_embebidos.dir\build.make CMakeFiles/Sistemas_embebidos.dir/controlador_PI.cpp.s
+.PHONY : controlador_PI.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Sistemas_embebidos
+	@echo ... controlador_PI.obj
+	@echo ... controlador_PI.i
+	@echo ... controlador_PI.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
