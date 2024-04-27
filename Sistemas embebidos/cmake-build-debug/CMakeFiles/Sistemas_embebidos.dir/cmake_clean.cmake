@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Sistemas_embebidos.dir/controlador_PI.cpp.obj"
-  "CMakeFiles/Sistemas_embebidos.dir/controlador_PI.cpp.obj.d"
+  "CMakeFiles/Sistemas_embebidos.dir/Controlador_PI.cpp.obj"
+  "CMakeFiles/Sistemas_embebidos.dir/Controlador_PI.cpp.obj.d"
   "CMakeFiles/Sistemas_embebidos.dir/main.cpp.obj"
   "CMakeFiles/Sistemas_embebidos.dir/main.cpp.obj.d"
   "Sistemas_embebidos.exe"

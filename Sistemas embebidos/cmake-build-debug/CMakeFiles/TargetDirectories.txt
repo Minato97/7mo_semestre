@@ -1,3 +1,3 @@
-C:/Users/Nacho Andrade/Desktop/Ingeniería en electrónica y computación/7mo_semestre/Sistemas embebidos/cmake-build-debug/CMakeFiles/Sistemas_embebidos.dir
-C:/Users/Nacho Andrade/Desktop/Ingeniería en electrónica y computación/7mo_semestre/Sistemas embebidos/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Nacho Andrade/Desktop/Ingeniería en electrónica y computación/7mo_semestre/Sistemas embebidos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Nacho Andrade/Desktop/IELC/7mo_semestre/Sistemas embebidos/cmake-build-debug/CMakeFiles/Sistemas_embebidos.dir
+C:/Users/Nacho Andrade/Desktop/IELC/7mo_semestre/Sistemas embebidos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nacho Andrade/Desktop/IELC/7mo_semestre/Sistemas embebidos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Sistemas_embebidos::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Sistemas_embebidos-Debug-33a119be6ebe62f08949.json",
+					"jsonFile" : "target-Sistemas_embebidos-Debug-a74c2bc213af092c4470.json",
 					"name" : "Sistemas_embebidos",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Nacho Andrade/Desktop/Ingenier\u00eda en electr\u00f3nica y computaci\u00f3n/7mo_semestre/Sistemas embebidos/cmake-build-debug",
-		"source" : "C:/Users/Nacho Andrade/Desktop/Ingenier\u00eda en electr\u00f3nica y computaci\u00f3n/7mo_semestre/Sistemas embebidos"
+		"build" : "C:/Users/Nacho Andrade/Desktop/IELC/7mo_semestre/Sistemas embebidos/cmake-build-debug",
+		"source" : "C:/Users/Nacho Andrade/Desktop/IELC/7mo_semestre/Sistemas embebidos"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 6
 	}
 }
