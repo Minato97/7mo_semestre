@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Checkpoint Version="19" Minor="0">
+	<BUILD_NUMBER Name="3671981"/>
+	<FULL_BUILD Name="SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022"/>
+	<PRODUCT Name="Vivado v2022.2 (64-bit)"/>
+	<Part Name="xc7a100tcsg324-1"/>
+	<Top Name="decseg1"/>
+	<DisableAutoIOBuffers Name="0"/>
+	<OutOfContext Name="0"/>
+	<RunGenerated Name="1"/>
+	<HDPlatform Name="0"/>
+	<File Type="VERILOG_STUB" Name="decseg1_stub.v" ModTime="1714402075"/>
+	<File Type="VHDL_STUB" Name="decseg1_stub.vhdl" ModTime="1714402075"/>
+	<File Type="EDIF" Name="decseg1.edf" ModTime="1714402075"/>
+	<File Type="SHAPE" Name="decseg1.shape" ModTime="1714402075"/>
+	<File Type="XN" Name="decseg1.xn" ModTime="1714402075"/>
+	<File Type="INCR" Name="decseg1.incr" ModTime="1714402075"/>
+	<File Type="RDA" Name="decseg1.rda" ModTime="1714402075"/>
+	<File Type="JSON_RDA" Name="decseg1_rda.json" ModTime="1714402075"/>
+	<File Type="WDF" Name="decseg1.wdf" ModTime="1714402075"/>
+	<File Type="SYNTH" Name="decseg1.synth" ModTime="1714402075"/>
+</Checkpoint>
+
