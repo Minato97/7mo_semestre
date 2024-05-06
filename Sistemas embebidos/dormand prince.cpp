@@ -2,7 +2,7 @@
 #include <math.h>
 
 double f(double z){
-    return -0.8*z+0.4;
+    return -5*z+6;
 }
 
 main(){
