@@ -10,7 +10,7 @@ void setup() {
 
 void loop() {
 
-   delay(70);
+   delay(70);/*
   int cm = sonar.ping_cm();
   /*delay(70);
   digitalWrite(trig, LOW);
