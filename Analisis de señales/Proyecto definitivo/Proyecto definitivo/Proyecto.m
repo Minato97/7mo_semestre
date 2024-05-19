@@ -98,7 +98,12 @@ xlabel('t')
 ylabel('Amplitud')
 
 %% Filtrar la señal en el espacio de Fourier.
-filter_F = ( [ ones(1,100) , zeros(1,numel(y)-100)])';
+% Definir las frecuencias de corte
+f_min = 50; % Frecuencia mínima deseada (en Hz)
+f_max = 150; % Frecuencia máxima deseada (en Hz)
+
+% Crear un filtro que tenga valores altos en el rango deseado y valores bajos en el resto
+filter_F = ([zeros(1, f_min - 1), ones(1, f_max - f_min + 1), zeros(1, numel(y) - f_max)])';
 filterd_signal_F = Y_noise .* filter_F;
 y_IFFT = ifft(filterd_signal_F);
 % Visualiza la señal filtradas en Fourier y compara con la
